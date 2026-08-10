@@ -1,5 +1,5 @@
 schema: skill-manifest/v1
-id: sgc-any2docx
+id: lov-any2docx
 version: 0.3.0
 runtime: skill-runtime/v1
 context:
