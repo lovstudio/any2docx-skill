@@ -16,13 +16,15 @@ compatibility: >
   Requires Python 3.8+ and python-docx (`pip install python-docx`).
   Cross-platform: macOS, Windows, Linux.
   CJK fonts: macOS uses Songti SC, Windows uses SimSun, Linux uses Noto Serif CJK SC.
+depends_on:
+  - lov-branding-consistency
 metadata:
   author: contributors
-  version: "0.4.0"
+  version: "0.4.1"
   tags: markdown docx word cjk python-docx typesetting
 ---
 
-# any2docx — Markdown to Professional DOCX
+# Word 大师 · Word Master
 
 This skill converts any Markdown file into a professionally styled Word document using
 Python's python-docx library. It shares the same theme palette as any2pdf and handles
