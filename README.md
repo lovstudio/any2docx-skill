@@ -1,6 +1,6 @@
 # Word 大师 · Word Master
 
-![Version](https://img.shields.io/badge/version-0.4.2-CC785C)
+![Version](https://img.shields.io/badge/version-0.4.3-CC785C)
 
 Markdown to professionally styled DOCX (Word) with [python-docx](https://python-docx.readthedocs.io/). CJK/Latin mixed text, code blocks, tables, **images** (local + remote), cover pages, auto-refresh TOC, watermarks, and 11 color themes. Same theme palette as any2pdf, editable output.
 
@@ -9,7 +9,7 @@ Part of [skill-publisher/skills](https://example.com/skills/skills) &mdash; by [
 ## Install
 
 ```bash
-npx skills add any2docx -g -y
+npx lovstudio skills add any2docx -g -y
 ```
 
 Requires: Python 3.8+ and `pip install python-docx`
